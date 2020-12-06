@@ -1,0 +1,10 @@
+jwt:
+ tokenHeader: Authorization
+ secret: Blk1X8JlN4XH4s+Kuc0YUFXv+feyTgVUMycSiKbiL0YhRddy872mCNZBGZIb57Jn2V1RtaFXIxs8TvNPsnG//g==
+ expiration: 604800
+ tokenHead: 'Bearer '
+
+server:
+ servlet:
+  context-path: /api
+ port: 18080
