@@ -7,4 +7,4 @@ jwt:
 server:
  servlet:
   context-path: /api
- port: 18080
+ port: 8080
