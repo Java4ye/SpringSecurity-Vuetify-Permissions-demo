@@ -3,8 +3,7 @@
 
 # [在线预览](http://www.ryzeyang.top:8888/)👈
 
-## ![20201206111525](http://img.ryzeyang.top/20201206111525.png)
-<div align=center><img src="http://img.ryzeyang.top/20201206111525.png" width="300" height="450" /></div>`
+## ![20201206111525](https://cdn.jsdelivr.net/gh/RyzeYang/CDN_blog@2.0/SpringSecurity-vuetify-preivew.png)
 # 概要
 
 该项目是一个很简单的前后端分离项目， 后台使用了SpringSecurity，前端使用了Vuetify，做了一个简单的动态路由，权限控制。（或者说是简陋版吧 哈哈哈 后面要重新设计一个比较完整的并补上啦！）😝
