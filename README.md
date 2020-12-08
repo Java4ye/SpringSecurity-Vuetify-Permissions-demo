@@ -2,7 +2,7 @@
 
 # [在线预览](http://www.ryzeyang.top:8888/)👈
 
-# **喜欢的朋友麻烦给个Star!! 谢谢支持！！！博主会加紧写写这个前后端分离系列的文章的！**😝
+# 喜欢的朋友麻烦给个Star!! 谢谢支持！！！博主会加紧写写这个前后端分离系列的文章的！😝
 
 ## ![20201206111525](https://cdn.jsdelivr.net/gh/RyzeYang/CDN_blog@2.0/SpringSecurity-vuetify-preivew.png)
 
